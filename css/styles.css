@@ -120,3 +120,7 @@ html, body {
     .mobile-menu.open {
       transform: translateX(0);
     }
+
+	footer{
+      background: linear-gradient(135deg, #0B105C, #0476D9);
+    }
